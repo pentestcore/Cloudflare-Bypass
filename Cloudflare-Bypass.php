@@ -9,7 +9,7 @@ echo "
                        WebSite : https://PentestCore.com
                                                                         
 ";
-echo "URL HTTP:// ";
+echo "URL [http/https]: ";
 $site = trim(fgets(STDIN));
 $ip = file_get_contents("https://tools.pentestcore.com/cloudflare-bypass-c.php?byc="."$site");
 echo "$ip";
