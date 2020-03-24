@@ -17,7 +17,7 @@ Cloudflare Bypass tools | PentestCore
 <br>Enter the below command in the CMD :
 <br><code>php.exe Cloudflare-Bypass.php</code>
 <br>Enter website URL.
-<br>
+<br><br>
 <img src="Cloudflare-Bypass.jpg" alt="Cloudflare Bypass" style="max-width:100%;">
 
 <br>Website : https://pentestcore.com/
