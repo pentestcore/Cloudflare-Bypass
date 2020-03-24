@@ -11,7 +11,7 @@ apt-get install php
 php Cloudflare-Bypass.php
 Enter website URL.
 
-Windows :
+<br>Windows :
 Enter the below command in the CMD :
 php.exe Cloudflare-Bypass.php
 Enter website URL.
