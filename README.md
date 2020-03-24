@@ -8,14 +8,14 @@ Is a tool for bypassing Cloudflare that you can use to get the master IP of site
 <br>cd Cloudflare-Bypass
 </code>
 <br>Install php :
-<code><br>apt-get install php</code>
+<br><code>apt-get install php</code>
 <br> Run :
-<code><br>php Cloudflare-Bypass.php</code>
+<br><code>php Cloudflare-Bypass.php</code>
 <br>Enter website URL.
 
 <h3>Windows :</h3>
 <br>Enter the below command in the CMD :
-<br>php.exe Cloudflare-Bypass.php
+<br><code>php.exe Cloudflare-Bypass.php</code>
 <br>Enter website URL.
 
 <img src="Cloudflare-Bypass.jpg" alt="Cloudflare Bypass" style="max-width:100%;">
