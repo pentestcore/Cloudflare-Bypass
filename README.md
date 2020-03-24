@@ -4,7 +4,7 @@ Is a tool for bypassing Cloudflare that you can use to get the master IP of site
 <h2>Installation</h2>
 <h3>Linux :</h3>
 <br>Enter the below command in the terminal :
-<code><br>git clone https://github.com/pentestcore/Cloudflare-Bypass.git
+<br><code>git clone https://github.com/pentestcore/Cloudflare-Bypass.git
 <br>cd Cloudflare-Bypass
 </code>
 <br>Install php :
